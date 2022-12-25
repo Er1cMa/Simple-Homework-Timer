@@ -1,4 +1,4 @@
-# Simple-Homework-TImer
+# Simple-Homework-Timer
 Yes! This is a Simple Homework Timer. Simple, Light and useful!
 
 # Simple Instructions
